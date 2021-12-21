@@ -1,12 +1,14 @@
 h2 {
-    font-family: Lobster, Monospace;
-    margin-top:20vh;
-
-  }
-#quote-box{
+  font-family: Lobster, Monospace;
   margin-top:20vh;
-  width:50vw;
+  color:#8A3C5C;
+
 }
-.card{  
-  min-height:30vh;
+#editor{
+margin:10px;
+min-height:60vh;
+}
+#preview{  
+margin:10px;
+min-height:60vh;
 }

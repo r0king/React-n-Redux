@@ -1,5 +1,6 @@
 # reduxQuote
-Test Redux for code pen
- [Link to code pen](https://codepen.io/rkng/pen/NWvJOER)
+**Test Redux for code pen**
 
- ![plot](assets/drummer.png)
+ [Link to live code pen](https://codepen.io/rkng/pen/zYdbQrz)
+
+ ![plot](../assets/markdown.png)
